@@ -24,7 +24,7 @@ Using SQL to answer the questions
 
 
 ## Dashboard Overview
-Using Exported dataset from SQL task and 2019 Sales_data to answer questions:
+Using Exported dataset from SQL task and 2019 Sales_data to build the dashboard:
 ![Screenshot 2024-09-25 172505](https://github.com/user-attachments/assets/e201d14c-dcfb-4c4f-9a25-57b6ed055bed)
 * The US emerged as the highest sales market for the electronics retailer in 2019, generating nearly $8M in revenue. Following that, online sales reached $3.9M, with other countries contributing additional sales throughout the year. Remarkably, sales and profit were notably low in April 2019 across all regions, with the US hitting a low point at just $0.05M. However, both sales and profit showed a gradual increase, peaking towards the end of the year.
 
