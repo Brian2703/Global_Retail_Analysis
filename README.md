@@ -24,15 +24,20 @@ Using SQL to answer the questions
 
 
 ## Dashboard Overview
-Using Power BI to answer questions
+Using Exported dataset from SQL task and 2019 Sales_data to answer questions:
+![Screenshot 2024-09-25 172505](https://github.com/user-attachments/assets/e201d14c-dcfb-4c4f-9a25-57b6ed055bed)
+* The US emerged as the highest sales market for the electronics retailer in 2019, generating nearly $8M in revenue. Following that, online sales reached $3.9M, with other countries contributing additional sales throughout the year. Remarkably, sales and profit were notably low in April 2019 across all regions, with the US hitting a low point at just $0.05M. However, both sales and profit showed a gradual increase, peaking towards the end of the year.
+![Screenshot 2024-09-25 192355](https://github.com/user-attachments/assets/6a57c82d-353d-4bd8-95b4-5fdeb958913f)
+Monthly Cohort Analysis - Total Revenue (Top)
+* The February 2019 cohort is the highest revenue-generating cohort, contributing $1.95M in its first month, with steady declines in subsequent months, but significant spikes in the 9th and 12th months. Customer engagement typically wanes after 3-4 months, with revenues declining significantly, indicating a need to boost retention and possibly remarketing strategies.
+* Consistent revenues across months could highlight periods of effective marketing or product launches.
 
+Customer Retention by Months Distribution
+* With retention rate: 76.32% of customers are retained in the first month, after which the retention drops sharply. By the 3rd month, only about 3.6% of customers are still active, and it further decreases in subsequent months.
 
-The Queensland Traffic Crash Report with interactive filters:
-From 2001 to 2021, the number of crashes showed a downward trend, with the highest number of incidents in 2008, followed by a dramatic decrease until 2020. However, there was a slight increase in 2021, which serves as a warning sign to the government.
-The number of incidents on weekdays is much greater than on weekends, with the highest peak on Thursday.
-The third quarter experienced the most incidents compared to other quarters.
-Early morning rush hours and afternoon rush (6 am to 6 pm) are the time periods when most incidents occur, with the highest number of over 12,000 incidents from 3 pm to 6 pm.
-Drivers are the most common road users involved in incidents, with a significant number of female drivers involved in accidents requiring medical treatment in two main age groups: 17–24 and 30–39.
-![Screenshot 2024-09-25 153725](https://github.com/user-attachments/assets/4b45fc64-63a8-4fe1-ad3e-2f3d5b5b90a9)
-### Factor impact and crash distribution
-![Screenshot 2024-09-25 153700](https://github.com/user-attachments/assets/e7c63712-bedd-4c7a-b4c8-46570e2ea888)
+Quantity of Product Per Order Histogram (Bottom-Left)
+* Bigger orders (obrt 5 items) have significantly fewer occurrences (around 0.3K-0.6K), indicating that customers tend to buy one or some products per order. To solve this problem, the company can start some promotion to increase number items per order in future.
+![Screenshot 2024-09-25 192331](https://github.com/user-attachments/assets/e24c15e7-364d-458e-b5e0-413d5dce8b52)
+* Top 10 Products with Highest Sales and Profit: Highlights the top-selling products and their associated profits.
+* Computers stand out as the top category, generating $7M in sales and $4.1M in profits, indicating it’s the largest revenue and profit driver. Home Appliances rank second with $2.7M in profits from $1.6M in sales, showing a strong profit margin. Cameras and Camcorders, Cell Phones, and TV & Video each generate over $1M in sales and profits, highlighting these categories as important contributors.
+Black products dominate, accounting for 32.54% of sales with a total of $4.78M.
