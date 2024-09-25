@@ -7,16 +7,21 @@ This project provides data-driven insights into the sales performance of a globa
 Using SQL to answer the questions
 * The revenue, profit of top 10 of product over years
 * The revenue of top 10 product category over time
-  <img width="345" alt="Screenshot 2024-09-25 at 17 46 43" src="https://github.com/user-attachments/assets/36cc4bc4-044d-4660-b1e0-67947995ed2d">
+
+<img width="345" alt="Screenshot 2024-09-25 at 17 46 43" src="https://github.com/user-attachments/assets/36cc4bc4-044d-4660-b1e0-67947995ed2d">
+
 * Are there any seasonal patterns or trends for average order volume or revenue?
+
 <img width="289" alt="Screenshot 2024-09-25 at 17 47 42" src="https://github.com/user-attachments/assets/3b94ac14-344a-4cc2-8805-22a15cc12e51">
-<img width="415" alt="Screenshot 2024-09-25 at 17 48 36" src="https://github.com/user-attachments/assets/38ddd63c-11d1-498e-836f-f8e0e101ad86">
 
 * How long is the average delivery time in days? Has that changed over time?
-<img width="346" alt="Screenshot 2024-09-25 at 17 59 06" src="https://github.com/user-attachments/assets/d16d307d-65b5-4e7f-a86f-828cbe8320d3">
-<img width="285" alt="Screenshot 2024-09-25 at 17 48 55" src="https://github.com/user-attachments/assets/b21861ee-78b8-4a64-89d3-8e4a31fbe828">
+
+<img width="415" alt="Screenshot 2024-09-25 at 17 48 36" src="https://github.com/user-attachments/assets/38ddd63c-11d1-498e-836f-f8e0e101ad86">
 
 * How can you create a report that displays each store's performance across different product categories Profitable rate
+
+<img width="285" alt="Screenshot 2024-09-25 at 17 48 55" src="https://github.com/user-attachments/assets/b21861ee-78b8-4a64-89d3-8e4a31fbe828">
+
 
 ## Dashboard Overview
 Using Power BI to answer questions
