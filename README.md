@@ -1,9 +1,10 @@
-# Queensland_Incidents_Analysis
-Link to **[Tableau Report](https://public.tableau.com/app/profile/brian.ong1771/viz/Story_17272414319140/StoryTellingaboutQueenslandIncidentsdata?publish=yes)**
+# Global Electronics Retailer Analysis
 
 ## Overview
 This project provides data-driven insights into the sales performance of a global electronics company. It begins by using MySQL to generate general sales data by month, analyze sales by order type, and calculate the time gap between order date and delivery date, offering a deeper understanding of the company’s supply chain efficiency. Additionally, an analysis based on store performance reveals store size and profit margins, helping the company develop future pricing strategies. The data is then integrated into Power BI for a comprehensive trend analysis. Notably, 2019 stands out with the highest sales over the last five years. Furthermore, a cohort analysis of customer retention and product characteristics in 2019 provides deeper insights into customer behavior and product preferences.
+
 ## Project Goals
+Using SQL to answer the question
 * What are the outcomes of incidents (Fatal, Hospitalisation, Medical Treatment, Minor Injury)?
 * During what times of the day, days of the week, and hours groups do most incidents occur?
 * What is the trend of crash severity over time?
