@@ -4,17 +4,24 @@
 This project provides data-driven insights into the sales performance of a global electronics company. It begins by using MySQL to generate general sales data by month, analyze sales by order type, and calculate the time gap between order date and delivery date, offering a deeper understanding of the company’s supply chain efficiency. Additionally, an analysis based on store performance reveals store size and profit margins, helping the company develop future pricing strategies. The data is then integrated into Power BI for a comprehensive trend analysis. Notably, 2019 stands out with the highest sales over the last five years. Furthermore, a cohort analysis of customer retention and product characteristics in 2019 provides deeper insights into customer behavior and product preferences.
 
 ## Project Goals
-Using SQL to answer the question
-* What are the outcomes of incidents (Fatal, Hospitalisation, Medical Treatment, Minor Injury)?
-* During what times of the day, days of the week, and hours groups do most incidents occur?
-* What is the trend of crash severity over time?
-* Is there a seasonal pattern for incidents?
-* How do environmental factors affect the number of incidents?
-* How do human factors impact the number of incidents (age group, gender, etc.)?
-* Where do most incidents occur: along the road or elsewhere?
-* What is the relationship between age and gender in terms of affecting the proportion of incidents?
+Using SQL to answer the questions
+* The revenue, profit of top 10 of product over years
+* The revenue of top 10 product category over time
+  <img width="345" alt="Screenshot 2024-09-25 at 17 46 43" src="https://github.com/user-attachments/assets/36cc4bc4-044d-4660-b1e0-67947995ed2d">
+* Are there any seasonal patterns or trends for average order volume or revenue?
+<img width="289" alt="Screenshot 2024-09-25 at 17 47 42" src="https://github.com/user-attachments/assets/3b94ac14-344a-4cc2-8805-22a15cc12e51">
+<img width="415" alt="Screenshot 2024-09-25 at 17 48 36" src="https://github.com/user-attachments/assets/38ddd63c-11d1-498e-836f-f8e0e101ad86">
+
+* How long is the average delivery time in days? Has that changed over time?
+<img width="346" alt="Screenshot 2024-09-25 at 17 59 06" src="https://github.com/user-attachments/assets/d16d307d-65b5-4e7f-a86f-828cbe8320d3">
+<img width="285" alt="Screenshot 2024-09-25 at 17 48 55" src="https://github.com/user-attachments/assets/b21861ee-78b8-4a64-89d3-8e4a31fbe828">
+
+* How can you create a report that displays each store's performance across different product categories Profitable rate
 
 ## Dashboard Overview
+Using Power BI to answer questions
+
+
 The Queensland Traffic Crash Report with interactive filters:
 From 2001 to 2021, the number of crashes showed a downward trend, with the highest number of incidents in 2008, followed by a dramatic decrease until 2020. However, there was a slight increase in 2021, which serves as a warning sign to the government.
 The number of incidents on weekdays is much greater than on weekends, with the highest peak on Thursday.
